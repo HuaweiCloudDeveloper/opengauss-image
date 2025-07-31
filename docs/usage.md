@@ -101,4 +101,4 @@ SELECT * FROM test_table;
 
 
 # 参考文档
-[fake2db官网](https://github.com/emirozer/fake2db)
+[opengauss官网](https://opengauss.org/zh/)
