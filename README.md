@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">openGauss Database</h1>
   <p align="center">
-    <strong>English</strong> | <a href="README_ZH.md.md"><strong>简体中文</strong></a>
+    <strong>English</strong> | <a href="README_ZH.md"><strong>简体中文</strong></a>
   </p>
 
 ## Table of Contents
