@@ -76,7 +76,7 @@ openGauss支持SQL执行语句的诊断器，提前发现慢查询。
 openGauss通过机器学习方法自动调整数据库参数，提高调参效率，降低正确调参成本。
 
 
-本项目提供的开源镜像商品 [**opengauss数据库**]() ，已预先安装openGauss及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**opengauss数据库**](https://marketplace.huaweicloud.com/contents/9237bc7f-d361-4953-835d-0ecb9dfd7da6#productid=OFFI1161477894538182656) ，已预先安装openGauss及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
