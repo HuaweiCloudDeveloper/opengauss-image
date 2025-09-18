@@ -73,7 +73,7 @@ openGauss supports a SQL statement diagnoser to detect slow queries in advance.
 
 openGauss automatically adjusts database parameters using machine learning methods, improving tuning efficiency and reducing the cost of correct parameter configuration.
 
-The open-source image product [**openGauss Database**]() provided by this project comes pre-installed with openGauss and its related runtime environment, along with deployment templates. Follow the user guide to enjoy an efficient "out-of-the-box" experience!
+The open-source image product [**openGauss Database**](https://marketplace.huaweicloud.com/intl/hidden/contents/0c9e040c-c78c-4f9f-9dae-5f0ae5650a1c) provided by this project comes pre-installed with openGauss and its related runtime environment, along with deployment templates. Follow the user guide to enjoy an efficient "out-of-the-box" experience!
 
 > **System Requirements:**
 > - CPU: 2GHz or higher
